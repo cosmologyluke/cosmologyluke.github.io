@@ -2,23 +2,26 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Software Engineer @ <a href="https://www.tneigroup.com">TNEI</a> | Cosmology researcher | He/him/his
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>TNEI, Bainbridge House</p>
+    <p>88-90 London Road</p>
+    <p>Manchester, UK M1 2PW</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, my name is Luke and welcome! It is a bit of a work in progress but I hope that you can see some fo the things I have been working on. I am currently working as a software engineer in the IPSA Working Group of TNEI Manchester, focussing on the deployment and development of the power systems software [IPSA](https://www.ipsa-power.com). Previously I was working as a cosmologist for the [Jodrell Bank Center of Astrophysics](https://www.jb.man.ac.uk) with [Jens Chluba](http://www.jb.man.ac.uk/~jchluba/Science/index.html), studying the cosmic microwave background, recombination and spectral distortions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My experience in academia began studying tension quantifying methods for cosmological datasets alongside [Richard Battye](https://en.wikipedia.org/wiki/Richard_Battye) as a student intern within the University of Manchester. In 2016, I attained my M.Phys at the University of Manchester under the supervision of [Sarah Bridle](http://sarahbridle.net/), [Joe Zuntz](ttps://www.ph.ed.ac.uk/people/joe-zuntz) and [Michael Troxel](https://scholars.duke.edu/person/michael.troxel). In 2020, I attained my Ph.D in cosmology (_Astronomy and Astrophysics_) under the supervision of Jens Chluba.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!-- Double check that is correct -->
+As a researcher, I mainly focussed on recombination physics, the cosmic microwave background and fundamental physics. You can see my research interests in more detail [here](/projects/research) I'm interested in sophisticated statistical methods such as principal component analysis and maximum likelihood estimators. This culminated in the development of my first software package [FEARec++](/projects/fearec) which produces functional principal components for recombination variations as well as predicting how the components can reconstruct noise constraints.
+
+Since August 2021, I have been working on software development and maintenance for TNEI Services Ltd. where I focus on improving the source code of the [_Interactive Power Systems Analysis (IPSA)_](https://www.ipsa-power.com) software. This includes development in C++, Fortran and Python, the latter of which focusses primarily on the scripting. In this role I have developed several new original modules that will be added into the May 2022 release. 
