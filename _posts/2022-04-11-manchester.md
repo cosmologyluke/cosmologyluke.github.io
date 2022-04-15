@@ -42,9 +42,6 @@ On the turnaround from Altrincham something changed. I ran part way back up the 
   </div>
 </div>
 <div class="caption">
-  <em>The user interface for the IPSA program. This is the newest version of the interface developed for IPSA 2.10.0.</em>
-</div>
-<div class="caption">
   Picture at the finish. Don't let the smile fool you... I did not know what day it was.
 </div>
 

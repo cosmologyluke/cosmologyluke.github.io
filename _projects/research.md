@@ -26,6 +26,10 @@ My research has focussed on the epoch of _recombination_, ~ 400,000 years after 
 
 The process by which this veil of anisotropies from the Big Bang dissects or _decouples_ itself from the background baryons (here protonic nuclei and electrons) is specifically recombination. The full atomic physics and in-depth dynamic radiative transfer problem underpinning these interactions is very complicated and has required 50+ publications from 2002-2016 with the original theoretical work being carried out in the 1960s and 1970s.
 
+
+
+---
+
 Specifically, the ways that the background radiation changes due to non-standard physics has fascinated me for years. The process of recombination is a relationship between protons and electrons; so any modification to the fundamental relation between these particles can drastically modify how the light and electrons interact together. Parametric changes such as the _variation of fundamental constants_ or higher amounts of _primordial helium_ have a direct impact on the decoupling of photons. These can either manifest in the _CMB anisotropies_ or wiggles on the energy spectrum that point to non-thermal equilibrium known as _spectral distortions_.
 
 <div class="row justify-content-sm-center">
