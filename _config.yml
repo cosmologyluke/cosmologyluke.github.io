@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Dr. Luke Hart |  # the website title (if blank, full name will be used instead)
+title: blank  # the website title (if blank, full name will be used instead)
 first_name: Dr.
 middle_name: Luke
 last_name: Hart
