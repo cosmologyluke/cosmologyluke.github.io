@@ -2,15 +2,13 @@
 layout: about
 title: about
 permalink: /
-description: Software Engineer @ <a href="https://www.tneigroup.com">TNEI</a> | Cosmology researcher | He/him/his
+description: Software Engineer @ <a href="https://www.tneigroup.com">TNEI</a> | Cosmologist | He/him/his
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>TNEI Services Ltd., Bainbridge House</p>
-    <p>88-90 London Road</p>
-    <p>Manchester, UK M1 2PW</p>
+    <p>@ Lake Windermere, Lake District</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

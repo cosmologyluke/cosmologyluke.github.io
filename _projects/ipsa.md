@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ipsa
-description: software development for tnei
+description: power systems analysis tool development with tnei
 img: /assets/img/Circle.jpg
 importance: 3
 category: work

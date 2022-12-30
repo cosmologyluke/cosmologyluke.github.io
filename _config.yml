@@ -50,7 +50,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: cosmologyluke # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: cosmologyluke # your Twitter handle
+twitter_username:  # your Twitter handle
 linkedin_username: luke-hart-cosmology   # your LinkedIn user name
 scholar_userid: EiWmY9MAAAAJ # your Google Scholar ID
 orcid_id: 0000-0002-0258-5087 # your ORCID ID
@@ -68,7 +68,7 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: false
 
 contact_note: >
-  Github for coding, emails for general chats and Twitter to shout at me.
+  Github for coding, emails for general chats :)
 
 google_analytics:  # out your google-analytics code
 panelbear_analytics:  # panelbear analytics site ID

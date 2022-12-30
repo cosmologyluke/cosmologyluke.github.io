@@ -13,10 +13,10 @@ The main thing is the distances: I shunned away from the compulsory >21km per we
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img height='500' width='340' class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/floods_mersey.jpg">
+        <img height='500' width='340' class="img-fluid rounded" title="Floods on the river Mersey by Styal" src="{{ site.baseurl }}/assets/img/floods_mersey.jpg">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img height='500' width='340' class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/bugs_parkrun.jpg">
+        <img height='500' width='340' class="img-fluid rounded" title="Liverpool Running Bugs: Alexandra Parkrun" src="{{ site.baseurl }}/assets/img/bugs_parkrun.jpg">
     </div>
 </div>
 <div class="caption">
@@ -38,7 +38,7 @@ On the turnaround from Altrincham something changed. I ran part way back up the 
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-      <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/manc_mara.png' | relative_url }}" alt="" title="IPSA UI designed for the 2022 IPSA v2.10.0 release" style="width:90%"/>
+      <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/manc_mara.png' | relative_url }}" alt="" title="Manchester marathon finishing picture" style="width:90%"/>
   </div>
 </div>
 <div class="caption">
