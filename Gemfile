@@ -13,7 +13,7 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
-    # gem 'jekyll-assets', "~> 2.4.0"
+    gem "sprockets", "~> 3.7"
     gem 'jekyll-assets'
     gem 'kramdown-parser-gfm'
 end
