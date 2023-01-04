@@ -33,8 +33,8 @@ In 2021, I ran the London Marathon for [NOMAN Is An Island](https://nomancampaig
 </div>
 
 <div class="row mt-3">
-  <img class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/heatflask/hf-10-2022.gif">
+  <img class="img-fluid rounded" src="{{ site.baseurl }}/assets/img/heatflask/hf-01-2023.gif">
 </div>
 <div class="caption">
-    Running heatflow map for my last 100 runs c/o of <a href="https://github.com/ebrensi/heatflask/">Efrem Rensi</a>. Last updated 14 October 2022.
+    Running heatflow map for my last 100 runs c/o of <a href="https://github.com/ebrensi/heatflask/">Efrem Rensi</a>. Last updated 4 January 2023.
 </div>
